@@ -1,0 +1,32 @@
+{
+  "name": "okapi-bm25-facebook",
+  "version": "1.0.0",
+  "description": "Facebook post word importance algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopez567/Okapi-bm25-facebook.git"
+  },
+  "author": "Spencer Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopez567/Okapi-bm25-facebook/issues"
+  },
+  "homepage": "https://github.com/lopez567/Okapi-bm25-facebook#readme",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-react": "^6.16.0",
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3",
+    "passport": "^0.3.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2"
+  }
+}
